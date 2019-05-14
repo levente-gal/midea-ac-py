@@ -1,0 +1,8 @@
+{
+  "domain": "midea",
+  "name": "Midea",
+  "documentation": "https://github.com/keatontaylor/alexa_media_player/wiki",
+  "dependencies": [],
+  "codeowners": ["@keatontaylor", "@alandtse","@ruben0909"],
+  "requirements": ["bumpversion==0.5.3"]
+}
