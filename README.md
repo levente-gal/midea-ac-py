@@ -1,5 +1,11 @@
-## No more development
-Unfortunately I do not have access to my Midea Air Conditioners as I have relocated to a new house. This means that I cannot reliably support this library due to not being able to test it with real hardware anymore.
+####
+####
+# Contains ugly timeout-fix for the 240 min session timeout and some other things..
+#
+####
+####
+
+# midea-ac-py [![Build Status](https://travis-ci.org/NeoAcheron/midea-ac-py.svg?branch=master)](https://travis-ci.org/NeoAcheron/midea-ac-py)
 
 # midea-ac-py 
 
